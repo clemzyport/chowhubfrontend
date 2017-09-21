@@ -1,2 +1,2 @@
-# MyFirstMajorWork
-This is the template design for ChowHub Website as requested. No major media queries and no javascript written at all. Thanks
+# MChowHub Kitchen
+This is ChowHub Kitchen website developed by me, no javascript code written on these though, you can contact me if you need the complete design.
